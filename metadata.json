@@ -1,0 +1,6 @@
+{
+  "name": "Pinecrest Valley",
+  "description": "An open-world 3D alpine survival, house-building, and General Store & Outfitter simulation with real-time meteorology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
